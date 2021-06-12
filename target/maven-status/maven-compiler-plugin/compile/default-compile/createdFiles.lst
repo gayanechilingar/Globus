@@ -1,0 +1,13 @@
+com/weather/globus/GlobusApplication.class
+com/weather/globus/domain/Sys.class
+com/weather/globus/controllers/AppController.class
+com/weather/globus/domain/Main.class
+com/weather/globus/domain/Coord.class
+com/weather/globus/domain/Wind.class
+com/weather/globus/domain/LocationData.class
+com/weather/globus/domain/Location.class
+com/weather/globus/domain/Weather.class
+com/weather/globus/SwaggerConfig.class
+com/weather/globus/domain/WeatherBody.class
+com/weather/globus/domain/Clouds.class
+com/weather/globus/services/ServiceApp.class

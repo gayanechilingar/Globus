@@ -1,0 +1,13 @@
+/home/gayanec/Documents/globus/src/main/java/com/weather/globus/services/ServiceApp.java
+/home/gayanec/Documents/globus/src/main/java/com/weather/globus/domain/Location.java
+/home/gayanec/Documents/globus/src/main/java/com/weather/globus/domain/Main.java
+/home/gayanec/Documents/globus/src/main/java/com/weather/globus/domain/WeatherBody.java
+/home/gayanec/Documents/globus/src/main/java/com/weather/globus/domain/Coord.java
+/home/gayanec/Documents/globus/src/main/java/com/weather/globus/domain/Sys.java
+/home/gayanec/Documents/globus/src/main/java/com/weather/globus/domain/Weather.java
+/home/gayanec/Documents/globus/src/main/java/com/weather/globus/domain/Wind.java
+/home/gayanec/Documents/globus/src/main/java/com/weather/globus/controllers/AppController.java
+/home/gayanec/Documents/globus/src/main/java/com/weather/globus/domain/Clouds.java
+/home/gayanec/Documents/globus/src/main/java/com/weather/globus/GlobusApplication.java
+/home/gayanec/Documents/globus/src/main/java/com/weather/globus/domain/LocationData.java
+/home/gayanec/Documents/globus/src/main/java/com/weather/globus/SwaggerConfig.java
